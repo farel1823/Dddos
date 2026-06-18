@@ -1,5 +1,20 @@
 Cara jalankan no eror
 
-1 Pkg install git
+yang pertama kalian lerlu siapkan ini
+1.ddos nya
+2. script nya buat lacak ip nya
+kalok udah jalankan ini
 
-2. git clone 
+1.pkg install git
+
+git clone https://github.com/farel1823/Dddos.git
+
+cd Dddos
+
+ls
+
+masukan perintah nya
+
+python ddos.py
+
+sebelum itu harus ada ip oke

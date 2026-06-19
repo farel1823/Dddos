@@ -1,6 +1,6 @@
 Cara jalankan no eror
 
-yang pertama kalian lerlu siapkan ini
+yang pertama kalian perlu siapkan ini
 1.ddos nya
 2. script nya buat lacak ip nya
 kalok udah jalankan ini
